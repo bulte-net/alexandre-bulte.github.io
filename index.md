@@ -1,91 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexandre Bulté
+reference: https://github.com/elipapa/markdown-cv
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexandre Bulté
+Ingénieur en informatique
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alexandre@bulte.net">alexandre@bulte.net</a>
+| <a href="https://github.com/abulte">github.com/abulte</a>
 </div>
 
 
-## Currently
+## Actuellement
 
-Standing on the shoulders of giants
+Développeur _freelance_ sur [data.gouv.fr](https://www.data.gouv.fr) chez [Etalab](https://www.etalab.gouv.fr).
 
-### Specialized in
+## Résumé
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Après une formation d'ingénieur spécialisé en informatique, j'ai fait mes premières armes sur les métiers du SI en tant que développeur, chef de projet et expert technique dans une grance société de services (Unilog / Logica).
 
+J'ai ensuite choisi de me rapprocher du monde du logiciel libre, qui m'a toujours passionné, et de mettre mon expertise au service d'une plus petite structure spécialisée dans l'_open source_ (Alterway). En plus de continuer à y développer mes compétences existantes (expertise technique et gestion de projet), j'y ai également exercé des fonctions à l'interface entre le commercial et le technique en tant que responsable avant-vente.
 
-### Research interests
+Depuis 2012, je suis développeur et consultant en _freelance_ et j'ai eu la chance d'accompagner des équipes très diverses, dans des environnements technologiques différents et avec des responsabilités allant du développement à la direction technique.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Expériences professionnelles
 
+### _Freelance_
 
-## Education
+`2012 - 2019`
+**Développement web et mobile, conseil**
+- Etalab — évolutions, maintenance et organisation de [data.gouv.fr](https://www.data.gouv.fr)
+- Mober — architecture de la refonte du système d'information
+- Institut Montaigne — simulateurs des systèmes de retraite et d'assurance maladie
+- Magency — développeur backend sur un outil de formation
+- Ayudo — site web et applications mobiles de géolocalisation du personnel en zone à risque
+- Sparted — consultant sur la refonte du backoffice et des applications mobiles
+- AmiAmi — développement des applis mobiles et du site Web
+- WeSumOne — direction technique des équipes Wesumone
 
-`1654-1660`
-__The King's School, Grantham.__
+Technologies : Python (Flask, Django), Javascript (Vue.js, AngularJS), PHP (Drupal), mobile (Phonegap, Cordova, Ionic), BDD (PostgreSQL, MongoDB, MySQL), ops (Linux, Docker, AWS, Heroku)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Alterway
 
-- Sizar
+`2009-2012`
+**Responsable avant-vente**
+- Pilotage des propositions techniques et commerciales d'Alterway Solutions (branche ingénierie logicielle)
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Chef de projet**
+- France Télévisions, CEMS, ACAT
 
-- Fellow
+### Unilog / Logica
 
+`2006-2009`
+**Expert technique**
+- VIRGIN Mobile, ALCAN, EADS Astrium
 
+**Développeur**
+- EDF R&D, Commisssion Nationale des Commissaires aux Comptes, Alcyon
 
-## Awards
+## Formation
 
-`2012`
-President, *Royal Society*, London, UK
+`2003 - 2006`
+__Ecole des Mines de Douai__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2001 - 2003`
+__Classes préparatoires, PTSI/PT*, Lycée Chaptal, Paris__
