@@ -1,2 +1,3 @@
 markdown:   kramdown
 style:  davewhipp
+exclude: ['docker-compose.yml', 'CNAME', 'README.md']
