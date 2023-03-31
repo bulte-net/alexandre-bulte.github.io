@@ -4,7 +4,7 @@ title: Alexandre Bulté
 reference: https://github.com/elipapa/markdown-cv
 ---
 # Alexandre Bulté
-Ingénieur en informatique
+Computer Scientist <span style="font-style: normal">🧑‍🔬🧙‍♂️</span>
 
 <div id="webaddress">
 <a href="mailto:alexandre@bulte.net">alexandre@bulte.net</a>
