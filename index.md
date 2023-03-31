@@ -7,14 +7,14 @@ reference: https://github.com/elipapa/markdown-cv
 Ingénieur en informatique
 
 <div id="webaddress">
-<a href="alexandre@bulte.net">alexandre@bulte.net</a>
+<a href="mailto:alexandre@bulte.net">alexandre@bulte.net</a>
 | <a href="https://github.com/abulte">github.com/abulte</a>
 </div>
 
 
-## Actuellement
+<!-- ## Actuellement
 
-Directeur Technique [Etalab](https://www.etalab.gouv.fr).
+Directeur Technique [Etalab](https://www.etalab.gouv.fr). -->
 
 ## Résumé
 
@@ -24,18 +24,24 @@ J'ai ensuite choisi de me rapprocher du monde du logiciel libre, qui m'a toujour
 
 A partir de 2012, j'ai été développeur et consultant en _freelance_ et j'ai eu la chance d'accompagner des équipes très diverses, dans des environnements technologiques différents et avec des responsabilités allant du développement à la direction technique.
 
-Depuis 2020 je travaille au service du public chez [Etalab](https://www.etalab.gouv.fr) à la [DINUM](https://www.numerique.gouv.fr) en tant que Directeur Technique.
+A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www.etalab.gouv.fr) à la [Direction Interministérielle du Numérique](https://www.numerique.gouv.fr) en tant que Directeur Technique.
+
+**Avec plus de 15 ans d'expérience professionnelle dans le monde du numérique, j'ai acquis une connaissance approfondie des technologies du Web et de la donnée, ainsi que sur la manière de conduire des projets, former et encadrer des équipes.**
 
 ## Expériences professionnelles
 
-### Etalab
+### Etalab — DINUM
 
-`2020-now`
+`2020-2023`
 **Directeur Technique**
+- Responsable de la plateforme [data.gouv.fr](https://www.data.gouv.fr) et de ses satellites : lead technique, recrutement, pilotage des prestations et du budget (+1M€) — [data.gouv.fr](https://www.data.gouv.fr) reçoit 18 millions de visites en 2021 et les services sont développés et infogérés en interne ;
+- Gestion des outils et infrastructures mutualisées du département [Etalab](https://www.etalab.gouv.fr), en appliquant un principe de souveraineté numérique, tant sur les moyens employés (internalisation des compétences) que les outils (respect du RGPD et _stacks open source_) ;
+- Dialogue avec de nombreuses administrations, collectivités et associations en tant que "fournisseur" via les services de [data.gouv.fr](https://www.data.gouv.fr) mais aussi en apportant du conseil sur des sujets autour de la donnée : collecte, exploitation, valorisation, ouverture, réutilisation ;
+- Participation à différents efforts de normalisation et d'interopérabilité des données et des métadonnées, notamment via [schema.data.gouv.fr](https://schema.data.gouv.fr) et le [vocabulaire DCAT](https://www.w3.org/TR/vocab-dcat/).
 
 ### _Freelance_
 
-`2012 - 2020`
+`2012-2020`
 **Développement web et mobile, conseil**
 - Etalab — évolutions, maintenance et organisation de [data.gouv.fr](https://www.data.gouv.fr)
 - Mober — architecture de la refonte du système d'information
