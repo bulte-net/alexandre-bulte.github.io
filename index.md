@@ -4,7 +4,7 @@ title: Alexandre Bulté
 reference: https://github.com/elipapa/markdown-cv
 ---
 # Alexandre Bulté
-Computer Scientist <span style="font-style: normal">🧑‍🔬🧙‍♂️</span>
+Computer Scientist <span style="font-style: normal">🧑‍🔬🧙‍♂️🇫🇷</span>
 
 <div id="webaddress">
 <a href="mailto:alexandre@bulte.net">alexandre@bulte.net</a>
@@ -32,7 +32,7 @@ A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www
 
 ### Etalab — DINUM
 
-`2020-2023`
+`2020 - 2023`
 **Directeur Technique**
 - Responsable de la plateforme [data.gouv.fr](https://www.data.gouv.fr) et de ses satellites : lead technique, recrutement, pilotage des prestations et du budget (+1M€) — [data.gouv.fr](https://www.data.gouv.fr) reçoit 18 millions de visites en 2021 et les services sont développés et infogérés en interne ;
 - Gestion des outils et infrastructures mutualisées du département [Etalab](https://www.etalab.gouv.fr), en appliquant un principe de souveraineté numérique, tant sur les moyens employés (internalisation des compétences) que les outils (respect du RGPD et _stacks open source_) ;
@@ -41,31 +41,33 @@ A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www
 
 ### _Freelance_
 
-`2012-2020`
+`2012 - 2020`
 **Développement web et mobile, conseil**
-- Etalab — évolutions, maintenance et organisation de [data.gouv.fr](https://www.data.gouv.fr)
-- Mober — architecture de la refonte du système d'information
-- Institut Montaigne — simulateurs des systèmes de retraite et d'assurance maladie
-- Magency — développeur backend sur un outil de formation
-- Ayudo — site web et applications mobiles de géolocalisation du personnel en zone à risque
-- Sparted — consultant sur la refonte du backoffice et des applications mobiles
-- AmiAmi — développement des applis mobiles et du site Web
-- WeSumOne — direction technique des équipes Wesumone
+- _Etalab_&nbsp;: évolutions, maintenance et organisation de [data.gouv.fr](https://www.data.gouv.fr)
+- _Mober_&nbsp;: architecture de la refonte du système d'information
+- _Institut Montaigne_&nbsp;: simulateurs des systèmes de retraite et d'assurance maladie
+- _Magency_&nbsp;: développeur backend sur un outil de formation
+- _Ayudo_&nbsp;: site web et applications mobiles de géolocalisation du personnel en zone à risque
+- _Sparted_&nbsp;: consultant sur la refonte du backoffice et des applications mobiles
+- _AmiAmi_&nbsp;: développement des applis mobiles et du site Web
+- _WeSumOne_&nbsp;: direction technique des équipes Wesumone
 
 Technologies : Python (Flask, Django), Javascript (Vue.js, AngularJS), PHP (Drupal), mobile (Phonegap, Cordova, Ionic), BDD (PostgreSQL, MongoDB, MySQL), ops (Linux, Docker, AWS, Heroku)
 
 ### Alterway
 
-`2009-2012`
+`2009 - 2012`
 **Responsable avant-vente**
+
 - Pilotage des propositions techniques et commerciales d'Alterway Solutions (branche ingénierie logicielle)
 
 **Chef de projet**
+
 - France Télévisions, CEMS, ACAT
 
 ### Unilog / Logica
 
-`2006-2009`
+`2006 - 2009`
 **Expert technique**
 - VIRGIN Mobile, ALCAN, EADS Astrium
 
