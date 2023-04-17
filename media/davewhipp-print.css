@@ -189,3 +189,24 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+ul.contact {
+	text-align: right;
+	margin-top: 1em;
+}
+
+ul.contact > li:before {
+	content: None;
+	position: relative;
+}
+
+/* Pagination */
+
+hr {
+	break-after: page;
+}
+
+hr {
+	border: none;
+	margin: 0;
+}

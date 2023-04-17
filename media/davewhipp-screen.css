@@ -242,3 +242,19 @@ strong {
 	  text-align: left;
 	}
 }
+
+ul.contact {
+	text-align: right;
+	margin-top: 1em;
+}
+
+ul.contact > li:before {
+	content: none;
+	position: relative;
+}
+
+/* Used for page breaks on print */
+hr {
+	border: none;
+	margin: 0;
+}

@@ -3,30 +3,22 @@ layout: cv
 title: Alexandre Bulté
 reference: https://github.com/elipapa/markdown-cv
 ---
+
 # Alexandre Bulté
-Computer Scientist <span style="font-style: normal">🧑‍🔬🧙‍♂️🇫🇷</span>
 
-<div id="webaddress">
-<a href="mailto:alexandre@bulte.net">alexandre@bulte.net</a>
-| <a href="https://github.com/abulte">github.com/abulte</a>
-</div>
+Curriculum vitæ
 
-
-<!-- ## Actuellement
-
-Directeur Technique [Etalab](https://www.etalab.gouv.fr). -->
+<ul class="contact">
+    <li>1 rue Maryse Bastié, 78300 Poissy</li>
+    <li>alexandre@bulte.net</li>
+    <li>06.63.58.43.00</li>
+</ul>
 
 ## Résumé
 
-Après une formation d'ingénieur spécialisé en informatique, j'ai fait mes premières armes sur les métiers du SI en tant que développeur, chef de projet et expert technique dans une grance société de services (Unilog / Logica).
+J'ai débuté ma carrière dans une grande société de services en tant que développeur, chef de projet et expert technique après une formation d'ingénieur en informatique. J'ai ensuite rejoint une structure spécialisée dans le logiciel libre, où j'ai occupé des fonctions à l'interface entre le commercial et le technique en plus de développer mes compétences existantes. À partir de 2012, j'ai travaillé en tant que développeur et consultant indépendant, accompagnant des équipes diverses et assumant des responsabilités allant du développement à la direction technique.
 
-J'ai ensuite choisi de me rapprocher du monde du logiciel libre, qui m'a toujours passionné, et de mettre mon expertise au service d'une plus petite structure spécialisée dans l'_open source_ (Alterway). En plus de continuer à y développer mes compétences existantes (expertise technique et gestion de projet), j'y ai également exercé des fonctions à l'interface entre le commercial et le technique en tant que responsable avant-vente.
-
-A partir de 2012, j'ai été développeur et consultant en _freelance_ et j'ai eu la chance d'accompagner des équipes très diverses, dans des environnements technologiques différents et avec des responsabilités allant du développement à la direction technique.
-
-A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www.etalab.gouv.fr) à la [Direction Interministérielle du Numérique](https://www.numerique.gouv.fr) en tant que Directeur Technique.
-
-**Avec plus de 15 ans d'expérience professionnelle dans le monde du numérique, j'ai acquis une connaissance approfondie des technologies du Web et de la donnée, ainsi que sur la manière de conduire des projets, former et encadrer des équipes.**
+En 2020, je suis devenu Directeur Technique du département Etalab à la Direction Interministérielle du Numérique, où j'ai consolidé une connaissance approfondie des technologies du Web et de la donnée, ainsi que sur la manière de conduire des projets, former et encadrer des équipes, totalisant plus de 15 ans d'expérience professionnelle dans le domaine du numérique.
 
 ## Expériences professionnelles
 
@@ -38,6 +30,9 @@ A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www
 - Gestion des outils et infrastructures mutualisées du département [Etalab](https://www.etalab.gouv.fr), en appliquant un principe de souveraineté numérique, tant sur les moyens employés (internalisation des compétences) que les outils (respect du RGPD et _stacks open source_) ;
 - Dialogue avec de nombreuses administrations, collectivités et associations en tant que "fournisseur" via les services de [data.gouv.fr](https://www.data.gouv.fr) mais aussi en apportant du conseil sur des sujets autour de la donnée : collecte, exploitation, valorisation, ouverture, réutilisation ;
 - Participation à différents efforts de normalisation et d'interopérabilité des données et des métadonnées, notamment via [schema.data.gouv.fr](https://schema.data.gouv.fr) et le [vocabulaire DCAT](https://www.w3.org/TR/vocab-dcat/).
+
+<!-- Page break -->
+---
 
 ### _Freelance_
 
@@ -52,7 +47,7 @@ A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www
 - _AmiAmi_&nbsp;: développement des applis mobiles et du site Web
 - _WeSumOne_&nbsp;: direction technique des équipes Wesumone
 
-Technologies : Python (Flask, Django), Javascript (Vue.js, AngularJS), PHP (Drupal), mobile (Phonegap, Cordova, Ionic), BDD (PostgreSQL, MongoDB, MySQL), ops (Linux, Docker, AWS, Heroku)
+Technologies : Python (Flask, Django), Javascript (Vue.js, AngularJS), PHP (Drupal), mobile (Phonegap, Cordova, Ionic), BDD (PostgreSQL, MongoDB, MySQL), ops (Linux, Docker, AWS, Heroku, Ansible)
 
 ### Alterway
 
