@@ -26,18 +26,20 @@ A partir de 2012, j'ai été développeur et consultant en _freelance_ et j'ai e
 
 A partir de 2020, j'ai travaillé au service du public chez [Etalab](https://www.etalab.gouv.fr) à la [Direction Interministérielle du Numérique](https://www.numerique.gouv.fr) en tant que Directeur Technique.
 
-XXX
+Depuis 2023, je suis de nouveau _freelance_ et je travaille pour le service public sur des projets liés à [data.gouv.fr](data.gouv.fr).
 
 **Avec plus de 15 ans d'expérience professionnelle dans le monde du numérique, j'ai acquis une connaissance approfondie des technologies du Web et de la donnée, ainsi que sur la manière de conduire des projets, former et encadrer des équipes.**
 
 ## Expériences professionnelles
 
 ### _Freelance_
-**XXX**
+**Développeur fullstack**
 
-`2023 - Aujourd'hui`
+`2023 -`
 - _MTE/CGDD Ecolab GD4H_&nbsp;: évolutions du [catalogue de données du GD4H](https://gd4h.ecologie.gouv.fr), notamment mise en place d'un moissonnage depuis [data.gouv.fr](https://www.data.gouv.fr)
 - _MTE/CGDD Ecolab Ecosphères_&nbsp;: préfiguration du futur [ecologie.data.gouv.fr](https://ecologie.data.gouv.fr) via une approche "verticale thématique" basée sur [data.gouv.fr](https://www.data.gouv.fr)
+
+Technologies : Python (Django), Javascript (Vue.js, React)
 
 ### Etalab — DINUM
 
